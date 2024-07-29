@@ -3,7 +3,7 @@ import { Link} from "react-scroll"
 function Navbar() {
   return (
     <nav className="fixed top-0 w-full bg-transparent z-50 flex justify-center">
-    <ul className="flex space-x-4 p-4 border bg-yellow-800 text-orange-600 rounded-full mt-4 font-bold font-serif text-blue-800">
+    <ul className="flex space-x-4 p-4 border bg-[rgb(244,55,67)] rounded-full mt-4 font-bold font-serif text-blue-800">
       <li>
         <Link
           to="about"

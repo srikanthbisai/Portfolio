@@ -1,23 +1,29 @@
 export const projectData = [
  {
     id:"1",
-    title: "Ecommerce",
-    description: "This is a sample project description",
-    image: "express.png"
+    title: "Vizag Estates",
+    description: "This is another sample project description",
+    image: "realEstate.png",
+    github_url: "https://github.com/srikanthbisai/deployEstate",
+    live_url: "https://deploy-estate.vercel.app/",
  },
-   
+
   {
     id: "2",
-    title: "Project 2",
+    title: "E-BHARAT",
     description: "This is another sample project description",
-    image: "mongodb.png"
+    image: "E-BHARAT.png",
+    github_url:"https://github.com/srikanthbisai/E-Commerce-App",
+    live_url: "https://e-commerce-website-4ms.pages.dev",
   },
 
   {
     id:"3",
-    title: "Project 3",
+    title: "CAR-HUB",
     description: "This is  sample project description",
-    image: "css.png"
+    image: "E-BHARAT.png",
+    github_url: "https://github.com/srikanthbisai/Car-Rental-APP",
+    live_url:"https://github.com/srikanthbisai/Car-Rental-APP"
   }
 ];
 

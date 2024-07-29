@@ -13,7 +13,7 @@ import Container from "@mui/material/Container";
 
 function Education() {
   return (
-    <div className="projects_container min-h-screen">
+    <div className="projects_container min-h-screen flex justify-center items-center">
       <Container maxWidth="lg">
         <Typography variant="h4" align="center" style={{ marginTop: "100px" }}>
           Education
